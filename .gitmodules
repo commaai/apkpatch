@@ -1,0 +1,3 @@
+[submodule "tinker"]
+	path = tinker
+	url = https://github.com/commaai/apkpatch-tinker.git
